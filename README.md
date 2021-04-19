@@ -1,3 +1,12 @@
+# Covid-19 Tracker
+
+Deploy live with Firebase!
+
+https://covid-19-tracker-d3ec8.web.app/
+
+![React App and 1 more page - Personal - Microsoft​ Edge 4_18_2021 10_47_40 PM (2)](https://user-images.githubusercontent.com/78442208/115187821-d42b1b00-a098-11eb-8e4e-779d25e24889.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
